@@ -23,8 +23,8 @@ AI/ML Engineer with 3 years of experience building intelligent solutions across 
 
 | Project | What it does |
 |---|---|
-| [Time-Series Forecasting with Probabilistic Deep Models](https://github.com/TRasagna/Time-Series-Forecasting-System-with-Probabilistic-Deep-Models) | Large-scale forecasting with DeepAR, TFT, and N-BEATS; uncertainty-aware predictions with MLflow model tracking |
-| [Graph Reasoning AI System with MLOps](https://github.com/TRasagna/Graph-Reasoning-AI-System-with-MLOps) | GNN-based link prediction and multi-relational reasoning over large knowledge graphs |
+| [Time-Series Forecasting with Probabilistic Deep Models](https://github.com/TRasagna/Time-Series-Forecasting-System-with-Probabilistic-Deep-Models) | Probabilistic forecasting with DeepAR, MLflow tracking, a FastAPI service, and a Streamlit dashboard |
+| [Graph Reasoning AI System with MLOps](https://github.com/TRasagna/Graph-Reasoning-AI-System-with-MLOps) | R-GCN link prediction on the FB15k-237 knowledge graph with Neo4j, FastAPI, and Streamlit |
 | [Neural Architecture Search with RL](https://github.com/TRasagna/Neural-Architecture-Search-with-Reinforcement-Learning) | RL controller that automatically designs deep learning network architectures |
 | [Stock Market Trend Prediction](https://github.com/TRasagna/stockmarket_prediction) | LSTM-based forecasting models for financial time-series prediction |
 
